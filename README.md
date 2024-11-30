@@ -1,2 +1,1 @@
-# GURUxxx
-GURU AI
+# pak-guru
